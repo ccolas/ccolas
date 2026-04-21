@@ -6,14 +6,14 @@ Previously at MIT with Josh Tenenbaum and Jacob Andreas. PhD at Inria with Pierr
 
 #### Selected research
 
-- **Language and Experience: A Computational Model of Social Learning** — *ICLR*, 2026 · [paper](https://arxiv.org/abs/2509.00074)
+- **Language and Experience: A Computational Model of Social Learning** — *ICLR*, 2026 · [paper](https://arxiv.org/abs/2509.00074) · [code](https://github.com/ccolas/language_and_experience)
 - **MAGELLAN: Metacognitive Predictions of Learning Progress Guide Autotelic LLM Agents** — *ICML*, 2025 · [paper](https://arxiv.org/abs/2502.07709) · [code](https://github.com/flowersteam/MAGELLAN)
-- **Self-Improving Language Models for Evolutionary Program Synthesis (SOAR)** — *ICML*, 2025 · 🏆 ARC-AGI 2nd paper prize · [paper](https://arxiv.org/abs/2507.14172)
-- **ACES: Generating Diverse Programming Puzzles with Autotelic Generative Models** — *NeurIPS*, 2024 · [paper](https://arxiv.org/abs/2310.10692)
+- **Self-Improving Language Models for Evolutionary Program Synthesis (SOAR)** — *ICML*, 2025 · 🏆 ARC-AGI 2nd paper prize · [paper](https://arxiv.org/abs/2507.14172) · [code](https://github.com/flowersteam/soar)
+- **ACES: Generating Diverse Programming Puzzles with Autotelic Generative Models** — *NeurIPS*, 2024 · [paper](https://arxiv.org/abs/2310.10692) · [code](https://github.com/flowersteam/aces)
 - **Language and Culture Internalization for Human-Like AI** — *Nature Machine Intelligence*, 2022 · [paper](https://arxiv.org/abs/2206.01134)
 - **Autotelic Agents with Intrinsically Motivated Goal-Conditioned RL: a Short Survey** — *JAIR*, 2022 · [paper](https://arxiv.org/abs/2012.09830)
 - **Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration** — *NeurIPS*, 2020 · [paper](https://arxiv.org/abs/2002.09253) · [code](https://github.com/flowersteam/Imagine)
-- **CURIOUS: Intrinsically Motivated Modular Multi-Goal RL** — *ICML*, 2019 · [paper](https://arxiv.org/abs/1810.06284)
+- **CURIOUS: Intrinsically Motivated Modular Multi-Goal RL** — *ICML*, 2019 · [paper](https://arxiv.org/abs/1810.06284) · [code](https://github.com/flowersteam/curious)
 
 PhD thesis received the 2022 award from the French AI Association (AFIA).
 
