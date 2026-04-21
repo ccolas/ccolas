@@ -2,7 +2,7 @@
 
 Marie Curie Postdoctoral Fellow at [Inria (Flowers Lab)](https://flowers.inria.fr/). I work on LLM agents, open-ended learning, and reinforcement learning. My research covers LLM-guided program synthesis, autonomous goal-setting agents, exploration and curriculum learning, social learning in human-AI populations, and world models. 
 
-Previously at MIT with Josh Tenenbaum and Jacob Andreas. PhD at Inria with Pierre-Yves Oudeyer and Olivier Sigaud. Interned at Uber AI Labs (2019) with Jeff Clune and Vashisht Madhavan.
+Previously at MIT with Josh Tenenbaum and Jacob Andreas. PhD at Inria with Pierre-Yves Oudeyer and Olivier Sigaud. Interned at Uber AI Labs with Jeff Clune and Vashisht Madhavan (summer 2019).
 
 #### Selected research
 
